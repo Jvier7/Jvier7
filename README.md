@@ -1,5 +1,5 @@
 - 👋 Hola me llamo Javi
-- 🌱 Me encuentro estudiando DAW en Granada
+- 🌱 Desarrollador de Aplicaciones Web
 - 📫 No hay contacto de momento
 
 <!---
